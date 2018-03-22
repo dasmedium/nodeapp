@@ -9,12 +9,12 @@ This is a Task manager app built on **Nodejs**, using **Express** framework and
 ... - [Angular 2 Documentation](https://web.archive.org/web/20161011223739/https://angular.io/docs/ts/latest/quickstart.html)
 4. **Bootstrap** - Bower
 5. **MongoJs** - ORM to interact with MongoDB
-6. **NodeJS
+6. **NodeJS**
 7. **NPM dependencies:**
-... - Body Parser(form handling)
-... - Ejs (templating)
-... - Mongojs
-... - Nodemon
+...- Body Parser(form handling)
+...- Ejs (templating)
+...- Mongojs
+...- Nodemon
 
 
 
