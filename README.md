@@ -2,6 +2,7 @@
 
 This is a Task manager app built on **Nodejs**, using **Express** framework and
 **Angular 2**. It was built following a tutorial by [Traversy Media](https://traversymedia.com). 
+A running example can be found [here](https://tasklist.dasmedium.co)
 ## Dependencies
 1. **MLab** - Remote MongoDb implementation
 2. **Express** - Routing, Api, Http etc.
